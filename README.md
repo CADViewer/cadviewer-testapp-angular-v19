@@ -24,7 +24,7 @@
 
 To see how a CAD Canvas is set up with callback methods and initialization of CADViewer use the following samples as a template:
 
-2: Download a CADViewer [Angular](https://github.com/CADViewer/cadviewer-testapp-angular-v19) implementation sample from [Github](https://github.com/CADViewer/cadviewer-testapp-angular-v19) repository [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v19).
+2: Download a CADViewer [Angular](https://github.com/CADViewer/cadviewer-testapp-angular-v19) implementation sample from [Github](https://github.com/CADViewer/cadviewer-testapp-angular-v19) repository [cadviewer-testapp-angular-v19](https://github.com/CADViewer/cadviewer-testapp-angular-v19).
 
 
 For both methods 1: and 2: , then do the following:
