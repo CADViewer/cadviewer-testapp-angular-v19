@@ -33,7 +33,7 @@ Download the Node JS CAD Conversion server (or alternatively the PHP, .NET or Se
 
 The [CADViewer](https://github.com/CADViewer/cadviewer-conversion-server) NodeJS CAD Conversion Server can be downloaded from [Github](https://github.com/CADViewer/cadviewer-conversion-server) from the repository [cadviewer-conversion-server](https://github.com/CADViewer/cadviewer-conversion-server).
 
-Download the CAD Converter AutoXchange 2023:  Go to: https://cadviewer.com/download/, register and receive email and then download from **AutoXchange 2025 Downloads**.
+Download the CAD Converter AutoXchange 2025:  Go to: https://cadviewer.com/download/, register and receive email and then download from **AutoXchange 2025 Downloads**.
 
 Use the Github [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v19) as reference sample. This sample illustrates initialization and loading of CADViewer as well as illustrates the functional interface for highlight and adding interactive image content to the CAD canvas. 
 
