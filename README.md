@@ -1,4 +1,4 @@
-# Cadviewer Sample for Angular 13 and TypeScript
+# Cadviewer Sample for Angular 19 and TypeScript
 
 ## CADViewer for Frameworks (ReactJS, VueJS, Angular etc.) 
 
@@ -24,7 +24,7 @@
 
 To see how a CAD Canvas is set up with callback methods and initialization of CADViewer use the following samples as a template:
 
-2: Download a CADViewer [Angular](https://github.com/CADViewer/cadviewer-testapp-angular-v01) implementation sample from [Github](https://github.com/CADViewer/cadviewer-testapp-angular-v01) repository [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v01).
+2: Download a CADViewer [Angular](https://github.com/CADViewer/cadviewer-testapp-angular-v19) implementation sample from [Github](https://github.com/CADViewer/cadviewer-testapp-angular-v19) repository [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v19).
 
 
 For both methods 1: and 2: , then do the following:
@@ -33,9 +33,9 @@ Download the Node JS CAD Conversion server (or alternatively the PHP, .NET or Se
 
 The [CADViewer](https://github.com/CADViewer/cadviewer-conversion-server) NodeJS CAD Conversion Server can be downloaded from [Github](https://github.com/CADViewer/cadviewer-conversion-server) from the repository [cadviewer-conversion-server](https://github.com/CADViewer/cadviewer-conversion-server).
 
-Download the CAD Converter AutoXchange 2023:  Go to: https://cadviewer.com/download/, register and receive email and then download from **AutoXchange 2023 Downloads**.
+Download the CAD Converter AutoXchange 2023:  Go to: https://cadviewer.com/download/, register and receive email and then download from **AutoXchange 2025 Downloads**.
 
-Use the Github [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v01) as reference sample. This sample illustrates initialization and loading of CADViewer as well as illustrates the functional interface for highlight and adding interactive image content to the CAD canvas. 
+Use the Github [cadviewer-testapp-angular-v01](https://github.com/CADViewer/cadviewer-testapp-angular-v19) as reference sample. This sample illustrates initialization and loading of CADViewer as well as illustrates the functional interface for highlight and adding interactive image content to the CAD canvas. 
 
 Note that the path book-keeping is important for proper initialization, where the ServerBackEndUrl and ServerLocation is the location and Url of the CAD Server and ServerUrl is the Url of the Angular application encapulating CADViewer. 
 
@@ -79,7 +79,7 @@ The CADViewer API is found at: https://cadviewer.com/cadviewerproapi/global.html
 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
 
 ## Development server
 
