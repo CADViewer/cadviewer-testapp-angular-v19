@@ -1,6 +1,6 @@
 {
   "name": "cadviewer-testapp-angular-v19",
-  "version": "11.9.2",
+  "version": "11.9.6",
   "description": "CADViewer - JavaScript CAD Viewer sample implementation for Angular 19 with TypeScript",
   "scripts": {
     "ng": "ng",
@@ -20,7 +20,7 @@
     "@angular/platform-browser-dynamic": "^19.2.17",
     "@angular/router": "^19.2.17",
     "@types/cadviewer": "^7.0.0",
-    "cadviewer": "^11.9.2",
+    "cadviewer": "^11.9.6",
     "canvg": "^4.0.1",
     "jquery": "^3.6.0",
     "resize-observer-polyfill": "^1.5.1",
